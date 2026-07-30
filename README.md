@@ -65,6 +65,7 @@ A comprehensive collection of Core Python programs covering fundamental concepts
 
 Contributions are welcome! Feel free to fork this repository, improve the code, add new examples, or fix bugs.
 
+
 # 👨‍💻 Author
 
 **Sanjay Unagar**
@@ -77,7 +78,7 @@ https://github.com/SanjayTUnagar
 🔗 LinkedIn:  
 https://www.linkedin.com/in/sanjayunagar/
 
----
+
 
 # ⭐ Support
 
