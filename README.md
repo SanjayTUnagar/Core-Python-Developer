@@ -65,6 +65,22 @@ A comprehensive collection of Core Python programs covering fundamental concepts
 
 Contributions are welcome! Feel free to fork this repository, improve the code, add new examples, or fix bugs.
 
-## ⭐ Support
+# 👨‍💻 Author
 
-If you find this repository helpful, please consider giving it a ⭐ Star.
+**Sanjay Unagar**
+
+Data Analyst | Python | SQL | Excel | Power BI | Pandas | Numpy | Matplotlib | Seaborn | Data Visualization
+
+🔗 GitHub:  
+https://github.com/SanjayTUnagar
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/sanjayunagar/
+
+---
+
+# ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+---
