@@ -68,15 +68,16 @@ Contributions are welcome! Feel free to fork this repository, improve the code, 
 
 # 👨‍💻 Author
 
-**Sanjay Unagar**
+### Sanjay Unagar
+**Data Analyst | Python | SQL | Excel | Power BI | Pandas | Numpy | Matplotlib | Seaborn | Data Visualization**
 
-Data Analyst | Python | SQL | Excel | Power BI | Pandas | Numpy | Matplotlib | Seaborn | Data Visualization
+🌐 **Portfolio:** https://sanjayunagar.netlify.app
 
-🔗 GitHub:  
-https://github.com/SanjayTUnagar
+💼 **LinkedIn:** https://www.linkedin.com/in/sanjayunagar/
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/sanjayunagar/
+🐙 **GitHub:** https://github.com/SanjayTUnagar
+
+
 
 
 
